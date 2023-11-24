@@ -1,0 +1,20 @@
+Dataset 1:
+Coefficients: 7.88202 -7.34489 1.01047 -2252 
+Mean Square Error: 13.0222
+
+Dataset 2:
+Coefficients: 6.4275 -2.8721 0.14008 4097 -12492 -16279 
+Mean Square Error: 10.8898
+
+Dataset 3:
+Coefficients: 3.37687 -3.39335 0.475173 11876 21794 32655 15052 
+Mean Square Error: 2.61866
+
+Dataset 4:
+Coefficients: -3.02103 3.33964 -0.482498 -10356 7977 
+Mean Square Error: 5.46147
+
+Dataset 5:
+Coefficients: 3.06803 -5.23057 1.04526 -27048 27400 4722 23602 32716 13301 25648 -1619 
+Mean Square Error: 17.9877
+
